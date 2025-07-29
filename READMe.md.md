@@ -16,12 +16,12 @@ We used the multilingual but English-capable **XLM-RoBERTa-base** model for its 
 
 | Metric         | Value              |
 |----------------|--------------------|
-| Accuracy       | 0.93               |
-| Precision      | 0.9675             |
-| Recall         | 0.9492             |
-| F1 Score       | 0.9583             |
-| Training Time  | 703.61 seconds     |
-| Testing Time   | 13.57 seconds      |
+| Accuracy       | 0.9436             |
+| Precision      | 0.9555             |
+| Recall         | 0.9786             |
+| F1 Score       | 0.9669             |
+| Training Time  | 1256.01 seconds    |
+| Testing Time   | 38.11 seconds      |
 
 ---
 
